@@ -30,8 +30,8 @@ end
 
 puts mas
 puts
-puts
-
+puts		
+			
 favorites = []
 favorites.push 'капли дождя на розах'
 favorites.push 'капли виски на котах'

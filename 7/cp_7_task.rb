@@ -24,4 +24,3 @@ end
 puts
 puts "is my_arr == my_arr.sort: " + (my_arr == my_arr.sort).to_s
 puts my_arr
-
