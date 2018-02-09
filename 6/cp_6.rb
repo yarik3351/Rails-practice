@@ -33,3 +33,4 @@ puts 'Привет, ' + name + '.'
 if (name == 'Chris' or name == 'Katy')
   puts 'Какое милое имя!'
 end
+
